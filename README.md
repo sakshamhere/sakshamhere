@@ -5,7 +5,7 @@
 -  SQL
 
 -  have good hands-on experience with - Java , HTML, CSS, JavaScript, C++, C
--  have knowledge of basic Unix commands, Gi
+-  have knowledge of basic Unix commands, Git
 
 ### Reach me at :
 - https://www.linkedin.com/in/saksham-doshi/
