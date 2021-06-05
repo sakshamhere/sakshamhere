@@ -7,6 +7,8 @@
 -  have good hands-on experience with - Java , HTML, CSS, JavaScript, C++, C
 -  have knowledge of basic Unix commands, Git
 
+- Being a self-learner I a have basic understanding with Machine learning, Amazon web services, Data mining concepts.
+
 ### Reach me at :
 - https://www.linkedin.com/in/saksham-doshi/
 - sam9111doshi@gmail.com / sakshamdoshi101@gmail.com
