@@ -1,13 +1,9 @@
 # Namaste 🙏, I'm Saksham Doshi Welcome to my github.
 
-### key skills :
--  Python, Advanced python for Data Analytics
--  SQL
+##### Brief About Me: 
+I am a Security Enthusiast, I like to learn, implement and investigate new things within Cyber Security.
 
--  have good hands-on experience with - Java , HTML, CSS, JavaScript, C++, C
--  have knowledge of basic Unix commands, Git
-
-- Being a self-learner I a have basic understanding with Machine learning, Amazon web services, Data mining concepts.
+Apart from my corporate work experiance, I am experienced in Web development including technologies (Javascript, HTML, Java, Python), Automation and data analysis with python.
 
 ### Reach me at :
 - https://www.linkedin.com/in/saksham-doshi/
