@@ -13,4 +13,4 @@ Apart from my corporate work experiance, I am experienced in Web development inc
 
 ### Reach me at :
 - https://www.linkedin.com/in/saksham-doshi/
-- sam9111doshi@gmail.com / sakshamdoshi101@gmail.com
+- sakshamdoshi101@gmail.com
